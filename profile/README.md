@@ -1,3 +1,9 @@
+# Pedal Games
+
+Pedal Games can be found at https://pedalgames.online
+
+
+# Examples
 
 ## Plugin examples
 
