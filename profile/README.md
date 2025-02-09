@@ -7,7 +7,8 @@ Pedal Games can be found at https://pedalgames.online
 
 The regular help pages can be found at https://pedalgames.online
 
-Documentation for the plugin is at https://github.com/pedalgames/user-plugin-docs
+Documentation for the plugin architecture is at https://github.com/pedalgames/user-plugin-docs
+
 
 ##  Examples
 
